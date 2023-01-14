@@ -1,0 +1,9 @@
+LEARNING_RATE = 0.00001
+X_MAX = 100
+Y_MAX = 100
+ACTIVATION_FUNCTION = "Open"
+OUTPUT_FUNCTION = "Open"
+RESULT_DELIMITER = 0
+NUM_TRAINING = 50000
+NUM_TESTING = 10000
+NUM_ITERATIONS = 1 # Probably don't need this with my graph because it can create an infinite data set (unless I start using batch losses)
